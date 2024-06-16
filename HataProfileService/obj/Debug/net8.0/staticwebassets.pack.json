@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/dauletturlykozha/RiderProjects/HataProfileService/HataProfileService/wwwroot/images/7_Снимок экрана 2024-04-24 в 08.30.49.png",
+      "PackagePath": "staticwebassets/images/7_Снимок экрана 2024-04-24 в 08.30.49.png"
+    },
+    {
+      "Id": "/Users/dauletturlykozha/RiderProjects/HataProfileService/HataProfileService/wwwroot/images/8_WIN_20240201_16_42_15_Pro.jpg",
+      "PackagePath": "staticwebassets/images/8_WIN_20240201_16_42_15_Pro.jpg"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.HataProfileService.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.HataProfileService.props",
+      "PackagePath": "build\\HataProfileService.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.HataProfileService.props",
+      "PackagePath": "buildMultiTargeting\\HataProfileService.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.HataProfileService.props",
+      "PackagePath": "buildTransitive\\HataProfileService.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

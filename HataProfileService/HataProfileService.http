@@ -1,0 +1,6 @@
+@HataProfileService_HostAddress = http://localhost:5054
+
+GET {{HataProfileService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

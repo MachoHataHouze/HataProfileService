@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "HZyKkXi/1hV5NYLzXEpO4xxYSkXyypM41NWvLC6k7pg=",
+  "Source": "HataProfileService",
+  "BasePath": "_content/HataProfileService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "HataProfileService/wwwroot",
+      "Source": "HataProfileService",
+      "ContentRoot": "/Users/dauletturlykozha/RiderProjects/HataProfileService/HataProfileService/wwwroot/",
+      "BasePath": "_content/HataProfileService",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/dauletturlykozha/RiderProjects/HataProfileService/HataProfileService/wwwroot/images/7_Снимок экрана 2024-04-24 в 08.30.49.png",
+      "SourceId": "HataProfileService",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/dauletturlykozha/RiderProjects/HataProfileService/HataProfileService/wwwroot/",
+      "BasePath": "_content/HataProfileService",
+      "RelativePath": "images/7_Снимок экрана 2024-04-24 в 08.30.49.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/7_Снимок экрана 2024-04-24 в 08.30.49.png"
+    },
+    {
+      "Identity": "/Users/dauletturlykozha/RiderProjects/HataProfileService/HataProfileService/wwwroot/images/8_WIN_20240201_16_42_15_Pro.jpg",
+      "SourceId": "HataProfileService",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/dauletturlykozha/RiderProjects/HataProfileService/HataProfileService/wwwroot/",
+      "BasePath": "_content/HataProfileService",
+      "RelativePath": "images/8_WIN_20240201_16_42_15_Pro.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/8_WIN_20240201_16_42_15_Pro.jpg"
+    }
+  ]
+}
