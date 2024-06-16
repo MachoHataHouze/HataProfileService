@@ -115,7 +115,7 @@ namespace ProfileService.Controllers
 
             if (!int.TryParse(userIdClaim, out var userId))
             {
-                return Unauthorized(new { Message = "Invalid nameid value" });
+                return Unauthorized(new { Message = "Invalid nameid valuq" });
             }
 
             var bookings = await _profileService.GetBookingsForUserAsync(userId);
